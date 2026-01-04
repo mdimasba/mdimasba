@@ -42,9 +42,15 @@ Our mission is to help creators, indie developers, and businesses transform thei
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### 🌐 Multiplayer & Networking
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white)
+### 🌐 Backend & API
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_Backend-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+![cURL](https://img.shields.io/badge/cURL-073551?style=flat-square&logo=curl&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ### 🔧 Tools & Editor Extensions
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
@@ -70,60 +76,40 @@ Our mission is to help creators, indie developers, and businesses transform thei
 
 ---
 
-## 🎯 Our Services
+## 🎮 Backend & Game Systems
 
-### 🎮 Game Development Services
+*We build complete backend solutions for games and applications:*
 
-| Service | Description |
-|---------|-------------|
-| 🕹️ **Unity Game Dev** | Complete 2D/3D game development from concept to deployment |
-| 👥 **Multiplayer Development** | Photon, Mirror, Netcode for real-time multiplayer games |
-| 🐛 **Bug Fix & Optimization** | Code repair, performance enhancement, and debugging |
-| 🎨 **Game Reskin** | Asset flip, UI overhaul, and visual refresh |
-| 💰 **Monetization Setup** | AdMob, Unity Ads, IAP integration |
-| 🧩 **Asset Creation** | 3D modeling, 2D art, and custom game assets |
-| 🔗 **System Integration** | Web services, database, REST API connections |
-| 🌐 **Metaverse Development** | Virtual worlds and immersive experiences |
-| 🏆 **Showcase Game Product** | Demo builds and game presentations |
-| 💬 **Consultation** | Project planning and technical guidance |
+### 🔐 Authentication & Security
+![Login System](https://img.shields.io/badge/🔑_Login_System-4CAF50?style=flat-square)
+![Register](https://img.shields.io/badge/📝_Register_System-2196F3?style=flat-square)
+![OAuth](https://img.shields.io/badge/🔗_OAuth_Integration-FF5722?style=flat-square)
+![Session Management](https://img.shields.io/badge/🍪_Session_Management-9C27B0?style=flat-square)
+![Password Encryption](https://img.shields.io/badge/🔒_Password_Encryption-607D8B?style=flat-square)
 
-### 💻 Software Solutions
+### 🏆 Game Services
+![Leaderboard](https://img.shields.io/badge/🏅_Leaderboard_System-FFD700?style=flat-square)
+![Global Chat](https://img.shields.io/badge/💬_Global_Chat-00BCD4?style=flat-square)
+![Save System](https://img.shields.io/badge/💾_Cloud_Save-673AB7?style=flat-square)
+![Achievement](https://img.shields.io/badge/🏆_Achievements-FFC107?style=flat-square)
+![Daily Rewards](https://img.shields.io/badge/🎁_Daily_Rewards-E91E63?style=flat-square)
+![In-Game Shop](https://img.shields.io/badge/🛒_In_Game_Shop-8BC34A?style=flat-square)
 
-| Service | Description |
-|---------|-------------|
-| 🌐 **Web Development** | Frontend & Backend web applications |
-| 📱 **App Development** | Android & iOS mobile solutions |
-| 💬 **WhatsApp Bots** | Automation & chatbot solutions |
-| ✈️ **Telegram Bots** | Community management & automation |
-| 🔧 **Custom Tools** | Desktop software & productivity tools |
-| 💳 **NFC Card System** | NFC implementation for APK & Web |
+### 👥 Multiplayer Features
+![Matchmaking](https://img.shields.io/badge/🎯_Matchmaking-3F51B5?style=flat-square)
+![Room System](https://img.shields.io/badge/🚪_Room_System-009688?style=flat-square)
+![Real-time Sync](https://img.shields.io/badge/⚡_Real_Time_Sync-FF9800?style=flat-square)
+![Player Stats](https://img.shields.io/badge/📊_Player_Stats-795548?style=flat-square)
+![Friends System](https://img.shields.io/badge/👫_Friends_System-03A9F4?style=flat-square)
 
----
-
-
-## 🏆 Why Choose Us?
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/shield.png" width="60" alt="Trusted"/>
-      <br/><b>Trusted</b><br/>
-      <sub>Reliable partnerships with proven track record</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/flash-on.png" width="60" alt="Fast"/>
-      <br/><b>Fast</b><br/>
-      <sub>Quick turnaround without compromising quality</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/money-bag.png" width="60" alt="Affordable"/>
-      <br/><b>Affordable</b><br/>
-      <sub>Competitive pricing with exceptional value</sub>
-    </td>
-  </tr>
-</table>
+### 📱 Admin & Dashboard
+![Admin Panel](https://img.shields.io/badge/🛠️_Admin_Panel-F44336?style=flat-square)
+![Analytics](https://img.shields.io/badge/📈_Analytics-4CAF50?style=flat-square)
+![User Management](https://img.shields.io/badge/👤_User_Management-9C27B0?style=flat-square)
+![Content Management](https://img.shields.io/badge/📋_CMS-FF5722?style=flat-square)
 
 ---
+
 
 ## 📫 Get In Touch
 
