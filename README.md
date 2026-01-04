@@ -32,7 +32,6 @@ Our mission is to help creators, indie developers, and businesses transform thei
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![PC](https://img.shields.io/badge/PC_(Windows)-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ### 💻 Programming Languages
@@ -44,9 +43,6 @@ Our mission is to help creators, indie developers, and businesses transform thei
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ### 🌐 Multiplayer & Networking
-![Mirror](https://img.shields.io/badge/Mirror_Networking-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Photon](https://img.shields.io/badge/Photon-004480?style=flat-square&logo=photon&logoColor=white)
-![Netcode](https://img.shields.io/badge/Unity_Netcode-000000?style=flat-square&logo=unity&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -104,18 +100,6 @@ Our mission is to help creators, indie developers, and businesses transform thei
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Majanite-Studio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Majanite-Studio&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majanite-Studio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</div>
-
----
 
 ## 🏆 Why Choose Us?
 
@@ -149,7 +133,7 @@ Our mission is to help creators, indie developers, and businesses transform thei
 |----------|------|
 | 🌐 **Website** | [majanite.com](https://majanite.com) |
 | 💬 **WhatsApp** | [+62 895-2259-0235](https://wa.me/6289522590235) |
-| 📧 **Email** | majanitestudio@gmail.com |
+| 📧 **Email** | majanite.studio@gmail.com |
 | 📷 **Instagram** | [@majanite.studio](https://instagram.com/majanite.studio) |
 | 💻 **GitHub** | [@Majanite-Studio](https://github.com/Majanite-Studio) |
 
@@ -176,5 +160,5 @@ Our mission is to help creators, indie developers, and businesses transform thei
 ---
 
 <div align="center">
-  <sub>© 2024 Majanite Studio. Made with ❤️ in Indonesia</sub>
-</div>
+  <sub>© 2022 Majanite Studio</sub>
+</div> 
